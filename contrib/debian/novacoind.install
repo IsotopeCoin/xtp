@@ -1,0 +1,2 @@
+debian/bin/Isotoped usr/bin
+src/Isotoped usr/lib/Isotope

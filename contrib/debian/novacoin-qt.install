@@ -1,0 +1,5 @@
+Isotope-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/Isotope-qt.desktop usr/share/applications
+debian/Isotope-qt.protocol usr/share/kde4/services/
